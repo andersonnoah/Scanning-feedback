@@ -12,7 +12,7 @@ I acknowledge that this documentation is written for an audience of developers a
 	* Are these the same server?
 
 **Other ideas:**
-* If one person is tasked with making artworks scannable, it might be worth it have one larger document that includes the steps to create hotspot content in the middleware.
+* If one person is tasked with making artworks scannable, it might be worth it to have one larger document that includes the steps to create hotspot content in the middleware.
 * While it might be too tedious for what it's worth in markdown, embedded images alongside documentation is always helpful.
 
 # Adding New Scanned Photography

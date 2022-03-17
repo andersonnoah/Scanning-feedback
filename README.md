@@ -4,7 +4,7 @@ I acknowledge that this documentation is written for an audience of developers a
 **Steps that need completed before beginning working on adding new scanned photograpy:**
 * Share necessary credentials via LastPass
 	* Note: Create a LastPass account before credentials are shared to avoid having to share credentials twice
-* Add whoever is working on this as a collaborator in ClevelandMuseumArt GitHub account
+* Add whoever is working on this as a collaborator on ClevelandMuseumArt GitHub account
 
 **Things still left unanswered:**
 * How to interface/general information on `artlens-cms`
